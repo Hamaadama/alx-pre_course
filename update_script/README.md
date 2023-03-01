@@ -1,1 +1,0 @@
-I am a non empty readme_file.
